@@ -1,0 +1,71 @@
+/*Author: Aidan Irish*/
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  height: 800px;
+  background: url(https://i.imgur.com/IhLT9ix.jpg);
+  background-size: cover;
+}
+
+.main {
+  position: relative;
+  top: 300px;
+  text-align: center;
+}
+
+.main h1 {
+  color: white;
+  font-family: 'Scada', sans-serif;
+  font-weight: 600;
+  font-size: 100px;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+
+.desc {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.desc .cover {
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+
+.desc img {
+  height: 350px;
+}
+
+.desc h2 {
+  font-family: 'Scada', sans-serif;
+  font-weight: 600;
+  font-size: 23px;
+  text-transform: uppercase;
+}
+
+.desc h4 {
+	font-family: 'Scada', sans-serif;
+}
+
+.desc h5 {
+	font-family: 'Scada', sans-serif;
+}
+
+.desc p {
+  font-family: 'Scada', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 50px;
+  margin-bottom: 40px;
+}
+
+.clearfix {
+  clear: both;
+}

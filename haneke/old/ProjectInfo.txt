@@ -1,0 +1,8 @@
+Author: Aidan Irish
+Page Title: Michael Haneke
+Domain: michaelhanekeorg
+
+The purpose of this project to demonstrate web development and design. 
+
+I decided to make a website for the filmmaker because his films and content is already 
+aesthetically pleasing, so the design would be a matter of presenting his work. 

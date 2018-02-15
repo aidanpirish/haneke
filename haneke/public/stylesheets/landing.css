@@ -1,0 +1,13 @@
+body {
+    
+    background: url(http://graphics8.nytimes.com/images/2012/09/09/t-magazine/09SUBwell-cannes/09SUBwell-cannes-custom1.jpg);
+    background-size: cover;
+}
+
+.title {
+    font-size: 20px;
+    background: white;
+    float: right;
+    margin: 30em 30em;
+    padding: 10px 10px 10px 10px;
+}
