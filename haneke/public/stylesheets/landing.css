@@ -1,7 +1,12 @@
+html{
+    height: 100%;
+    background-color: gray;
+}
+
 body {
-    
-    background: url(http://graphics8.nytimes.com/images/2012/09/09/t-magazine/09SUBwell-cannes/09SUBwell-cannes-custom1.jpg);
+    background: url(http://graphics8.nytimes.com/images/2012/09/09/t-magazine/09SUBwell-cannes/09SUBwell-cannes-custom1.jpg) center no-repeat;
     background-size: cover;
+    height: 100%;
 }
 
 .title {
@@ -10,4 +15,12 @@ body {
     float: right;
     margin: 30em 30em;
     padding: 10px 10px 10px 10px;
+}
+
+.jumbotron{
+    float: right;
+    margin-right: 400px;
+    margin-top: 100px;
+    height: 600px;
+    width:400px;
 }
