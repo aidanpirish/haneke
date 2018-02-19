@@ -12,6 +12,7 @@ const client = new Client({
 })
 client.connect()
 
+
 client.query('SELECT * FROM film', (err, res) => {
   console.log(err, res)
   client.end()
